@@ -1,0 +1,30 @@
+.main-footer {
+    background-color: #0d1117;
+    color: #c9d1d9;
+    padding: 2rem 1rem;
+    text-align: center;
+  }
+  
+  .footer-menu {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    flex-wrap: wrap;
+    margin-bottom: 1rem;
+  }
+  
+  .footer-menu span {
+    cursor: default;
+    font-weight: 500;
+    transition: color 0.3s ease;
+  }
+  
+  .footer-menu span:hover {
+    color: #58a6ff;
+  }
+  
+  .footer-copy {
+    font-size: 0.9rem;
+    color: #8b949e;
+  }
+  
